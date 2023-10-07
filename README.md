@@ -13,4 +13,4 @@ For any questions or assistance, you can refer to the provided contact informati
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [License](https://www.youtube.com/watch?v=Tgat3-prVv4).
